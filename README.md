@@ -62,13 +62,11 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 
 ## 📧 Connect With Me
 
-- 🔗 [Linktree](https://linktr.ee/AdityaBhatt3010)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-bhatt-b61868250/)
-- 🐙 [GitHub](https://github.com/adityabhatt3010)
-- 📝 [Medium](https://medium.com/@info.adityabhatt3010)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/info.adityabhatt)
-- 🎖️ [Credly](https://www.credly.com/users/aditya-bhatt3010)
+- � [LinkedIn](https://www.linkedin.com/in/parvej-rafi-ba43a3301/)
+- 🐙 [GitHub](https://github.com/ParvejRafi)
+- 📝 [Medium](https://medium.com/@cyberhackrafi)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/cyberhackrafi)
 
 ---
 
-> Designed & Developed with 💙 by **Aditya Bhatt**
+> Designed & Developed with 💙 by **MD Parvej Ahmed Rafi**
