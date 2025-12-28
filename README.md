@@ -1,16 +1,16 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 MD Parvej Ahmed Rafi — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
-This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, and **Cloud Security**.
+This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published writeups in the field of **Cybersecurity**, **Penetration Testing**, **CTF Challenges**, and **Vulnerability Assessment**.
 
-> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 2% | Published Author
+> 🔒 Penetration Tester | Cybersecurity Student | CTF Player | Technical Writer
 
 ---
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: [https://parvejarafi.github.io/cyberrafi.github.io](https://parvejarafi.github.io/cyberrafi.github.io)
 
 ---
 
@@ -21,7 +21,7 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 - **Vanilla JavaScript**
 - **Font Awesome**
 - **Google Fonts**
-- **Responsive Design** with custom dark/light theme toggle
+- **Responsive Design** with custom animations
 - 💻 Cyberpunk-inspired UI for a hacker aesthetic
 
 ---
@@ -33,7 +33,7 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
     ├── index.html # Main page
     ├── style.css # Styling and themes
     ├── script.js # Interactivity and animations
-    ├── assets/ # Images
+    ├── assets/ # Images & certificates
     └── README.md # You are here
 ```
 
@@ -42,12 +42,12 @@ Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010
 ## 🧠 Sections Included
 
 - 👨‍💻 About Me
-- ⚙️ Skills (Security, Programming, Tools)
+- ⚙️ Skills (Security Tools, Programming, Networking)
 - 📁 Projects (with GitHub links)
 - 🏢 Experience
 - 🎓 Education
 - 📜 Certifications
-- 🏆 Achievements
+- ✍️ Writeups & Articles (Medium publications)
 - 📚 Trainings & Courses
 - 📝 Blog Articles
 - 📞 Contact Form
