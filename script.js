@@ -105,11 +105,11 @@ if (networkCanvas && particleCanvas) {
         energyParticles = [];
         const particleCount = Math.min(60, Math.floor(networkCanvas.width * networkCanvas.height / 8000));
         const energyCount = 30;
-        
+
         for (let i = 0; i < particleCount; i++) {
             particles.push(new Particle());
         }
-        
+
         for (let i = 0; i < energyCount; i++) {
             energyParticles.push(new EnergyParticle());
         }
@@ -187,15 +187,15 @@ if (typingText) {
         'Bug Bounty Hunter',
         'Security Researcher'
     ];
-    
+
     let roleIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
     let typingSpeed = 100;
-    
+
     function typeRole() {
         const currentRole = roles[roleIndex];
-        
+
         if (isDeleting) {
             typingText.textContent = currentRole.substring(0, charIndex - 1);
             charIndex--;
@@ -205,7 +205,7 @@ if (typingText) {
             charIndex++;
             typingSpeed = 100;
         }
-        
+
         if (!isDeleting && charIndex === currentRole.length) {
             typingSpeed = 2000; // Pause at end
             isDeleting = true;
@@ -214,10 +214,10 @@ if (typingText) {
             roleIndex = (roleIndex + 1) % roles.length;
             typingSpeed = 500; // Pause before next role
         }
-        
+
         setTimeout(typeRole, typingSpeed);
     }
-    
+
     // Start typing animation after a brief delay
     setTimeout(typeRole, 1000);
 }
@@ -368,3 +368,6 @@ if (binaryElement) {
     // Start typing effect when page loads
     setTimeout(typeWriter, 1000);
 }
+
+
+
